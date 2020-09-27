@@ -1,0 +1,6 @@
+C:\Users\Fedor\source\repos\MyMathLib\MyMathLib\bin\Debug\MyMathLib.dll
+C:\Users\Fedor\source\repos\MyMathLib\MyMathLib\bin\Debug\MyMathLib.pdb
+C:\Users\Fedor\source\repos\MyMathLib\MyMathLib\obj\Debug\MyMathLib.csprojAssemblyReference.cache
+C:\Users\Fedor\source\repos\MyMathLib\MyMathLib\obj\Debug\MyMathLib.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\source\repos\MyMathLib\MyMathLib\obj\Debug\MyMathLib.dll
+C:\Users\Fedor\source\repos\MyMathLib\MyMathLib\obj\Debug\MyMathLib.pdb
